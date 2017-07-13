@@ -1,0 +1,82 @@
+
+
+html, body
+{
+	height: 100%;
+    font-family: lato;
+    
+}
+
+
+.navbar-inverse{
+    margin: 0px;
+    font-family: lato;
+
+}
+
+.wrapper {
+    width: 100%;
+    background-color: lightcyan;
+}
+
+
+
+#text {
+    z-index:100;
+    position:absolute;    
+    color:white;
+    font-size:100px;
+    font-weight:bold;
+    left:150px;
+    top:350px;
+    
+}
+
+
+
+
+#footer {
+    background-color: #0c1a1e;
+    height: auto;
+
+    color: aliceblue;
+    font-family:lato;      
+}
+
+.footerfoot {
+    background-color: #f3f6f9 ;
+    height: auto;
+    padding-top: 10px;
+    color: aliceblue;
+    
+}
+
+
+.centerer {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.wrap {
+  width: 50%;
+  float: left;
+}
+
+
+
+.social-icon {
+    color:chartreuse;
+   margin-left: 3px;
+   margin-right: 3px;
+}
+
+textarea{
+  width: auto;
+    height: 200px;
+}
+.btn-default {
+    font-weight:900;
+    border-radius: 30px;
+}
+
